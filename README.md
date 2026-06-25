@@ -1,6 +1,6 @@
-# Create and connect to Azure Storage services using .NET Aspire
+# Create and connect to Azure Storage services using Aspire
 
-`dotnet-aspire-connect-storage` is a demo project that shows how to create an Azure storage account using the [Azure Developer CLI](https://learn.microsoft.com/en-us/azure/developer/azure-developer-cli/overview)(azd), and how to connect to it locally using a .NET Aspire app.
+`dotnet-aspire-connect-storage` is a demo project that shows how to create an Azure storage account using the [Azure Developer CLI](https://learn.microsoft.com/en-us/azure/developer/azure-developer-cli/overview)(azd), and how to connect to it locally using an Aspire app.
 
 ## Prerequisites
 
